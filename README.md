@@ -133,3 +133,12 @@ A: The system uses cryptographic aggregation techniques that can compute collect
 
 **Q: Is the system compatible with existing blockchain networks?**
 A: Currently implemented on Stacks blockchain with Clarity smart contracts. Phase 3 development includes cross-chain bridging to enable compatibility with Ethereum, Bitcoin, and other major blockchains.
+
+---
+## Contributing
+
+We welcome contributions to the Anonymous Reputation System! Please refer to our contribution guidelines and code of conduct.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
