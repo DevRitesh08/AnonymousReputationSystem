@@ -110,7 +110,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contract Address Details
 
-*Contract addresses will be added upon deployment to mainnet and testnet*
+Contract ID: 
+STJK2Y7JC5SXR7E0G8J24N68JHBW8TV6G45FEJVG.AnonymousReputationSystem
+![alt text](image-1.png)
 
 ### Mainnet
 - **Contract Address**: `[TO BE ADDED]`
