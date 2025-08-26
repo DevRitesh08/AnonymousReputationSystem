@@ -114,23 +114,4 @@ Contract ID:
 STJK2Y7JC5SXR7E0G8J24N68JHBW8TV6G45FEJVG.AnonymousReputationSystem
 ![alt text](image-1.png)
 
-### Mainnet
-- **Contract Address**: `[TO BE ADDED]`
-- **Contract Name**: `anonymous-reputation`
-- **Deployer**: `[TO BE ADDED]`
-
-### Testnet
-- **Contract Address**: `[TO BE ADDED]`
-- **Contract Name**: `anonymous-reputation`
-- **Deployer**: `[TO BE ADDED]`
-
-## Contact & Support
-
-For questions, suggestions, or support:
-- **GitHub Issues**: [Repository Issues Page]
-- **Documentation**: [Link to detailed docs]
-- **Community Discord**: [Discord Server Link]
-
 ---
-
-*Building the future of privacy-preserving reputation systems on the blockchain.*
