@@ -115,3 +115,21 @@ STJK2Y7JC5SXR7E0G8J24N68JHBW8TV6G45FEJVG.AnonymousReputationSystem
 ![alt text](image-1.png)
 
 ---
+## FAQ
+
+### General Questions
+
+**Q: How does the system maintain anonymity while building reputation?**
+A: The system uses cryptographic commitments and hash-based proofs. Users generate cryptographic hashes of their reputation data without revealing their actual identity. The blockchain stores only these hashes, making it impossible to trace back to individual users.
+
+**Q: Can reputation scores be manipulated or gamed?**
+A: The system uses multiple layers of protection including cryptographic proofs, timestamp validation, and threshold-based verification. Future implementations will include staking mechanisms and community validation to further prevent gaming.
+
+**Q: What happens if I lose my private keys?**
+A: Since the system is designed for anonymity, lost keys cannot be recovered through traditional means. We recommend secure key backup strategies and will implement key rotation mechanisms in future versions.
+
+**Q: How is reputation aggregated without revealing individual scores?**
+A: The system uses cryptographic aggregation techniques that can compute collective reputation metrics without exposing individual contributions. This is achieved through homomorphic properties of the commitment scheme.
+
+**Q: Is the system compatible with existing blockchain networks?**
+A: Currently implemented on Stacks blockchain with Clarity smart contracts. Phase 3 development includes cross-chain bridging to enable compatibility with Ethereum, Bitcoin, and other major blockchains.
